@@ -1,5 +1,4 @@
 # NCTU-computer-network
-lab 1-3
 
 ## lab1 Packet Manipulation
 
